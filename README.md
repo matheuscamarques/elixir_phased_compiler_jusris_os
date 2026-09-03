@@ -1,6 +1,7 @@
 # elixir_phased_compiler_jusris_os
 A Phased compiler for Elixir very very very especific case, I need review from especilits 
 
+<img width="478" height="123" alt="image" src="https://github.com/user-attachments/assets/71dea006-d1a7-47d4-b9bd-edcee6812069" />
 
 ```elixir 
 defmodule Mix.Tasks.Compile.Phased do
